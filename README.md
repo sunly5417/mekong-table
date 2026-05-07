@@ -52,10 +52,6 @@ The about page tells the story of the restaurant, its founder Chef Sovann Keo, t
 ### Contact
 The contact page provides the restaurant address, phone numbers, email, and opening hours alongside a contact form for inquiries and reservations.
 
-## Academic Purpose
-
-This project was built as part of a web development homework assignment focused on creating a structured multi-page website using only HTML and CSS with semantic markup and SEO best practices.
-
 ## License
 
 This project is for educational purposes.
